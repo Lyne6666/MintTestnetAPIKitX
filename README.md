@@ -1,2 +1,1 @@
-# MintTestnetAPIKitX
-Advanced MintTestnetAPIKitX project
+.
