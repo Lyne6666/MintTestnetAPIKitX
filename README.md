@@ -1,0 +1,2 @@
+# MintTestnetAPIKitX
+Advanced MintTestnetAPIKitX project
